@@ -1,5 +1,5 @@
 Hi! My name is Kerem and surname is Keskinoğlu.
-I'm interested in programming languages and "Artifical Intelligence"
+I'm interested in programming languages and "Artifical Intelligence".
 I'm currently learning C, C#, HTML, CSS, PYTHON.
 After I lernt the programming languages that I indicated and did some projects that I used all I know, gonna look for a job.
 To reach me, you can use bucocuknereli@gmail.com email account.
